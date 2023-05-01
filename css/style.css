@@ -63,10 +63,10 @@
     }
 
     @top-right {
-      content: string(doctitle);
+      /* content: string(doctitle);
       font-family: 'Literata-Regular', serif;
       text-transform: uppercase;
-      font-size: 8pt;
+      font-size: 8pt; */
     }
   }
 
